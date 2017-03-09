@@ -1,21 +1,22 @@
 [
 {
-    "movieURL": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/legobatmanmovie-tlr1_h480p.mov",
-    "musicURL": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/Leaving%20On%20A%20Jet%20Plane.mp3",
+    "article_title": "The Last Leaf",
     "article_url": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/Article.txt",
     "article_img_url": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/Article_img.jpeg",
+    "musicURL": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/music.mp3",
+    "music_img": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/music_img.jpeg",
+    "music_title": "Leaving on A Jet Plane",
+    "music_lyrics": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/Lyrics.txt",
     "image_url": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/Image.jpeg",
-    "html_url": "https://github.com/uchicago-mobi/MPCS51030-2017-Winter-Forum/issues/150",
-    "id": 210892860,
-    "number": 150,
-    "title": "Final Project Repository",
-    "locked": false,
-    "assignee": null,
-    "milestone": null,
-    "comments": 4,
-    "created_at": "2017-02-28T20:20:41Z",
-    "updated_at": "2017-03-06T19:53:09Z",
-    "closed_at": null,
-    "body": "https://classroom.github.com/assignment-invitations/fcd9266ca8c803586c35bd925fd79d51\r\n\r\nIf you have a partnership, please email me so I can add an additional user to one of the repositories." 
+    "image_title": "Sunflowers",
+    "image_description": "Sunflowers (original title, in French: Tournesols) are the subject of two series of still life paintings by the Dutch painter Vincent van Gogh. The earlier series, executed in Paris in 1887, depicts the flowers lying on the ground, while the second set, executed a year later in Arles, shows bouquets of sunflowers in a vase",
+    "movieURL": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/trailer.mov",
+    "movie_img": "https://raw.githubusercontent.com/MengchenLiu/OneMockData/master/ovie_img.jpeg",
+    "movie_title": "The Lego Batman Movie",
+    "movie_description": "Bruce Wayne must not only deal with the criminals of Gotham City, but also the responsibility of raising a boy he adopted. ",
+    "movie_director": "Chris McKay ",
+    "movie_genre": "Action & Adventure, Animation, Comedy, Kids & Family ",
+    "movie_writer": "Seth Grahame-Smith, Chris McKenna, Erik Sommers, Jared Stern, John Whittington ",
+    "movie_runtime": “90 minutes "
 }
 ]
